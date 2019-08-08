@@ -7,14 +7,14 @@ Updated on Aug 08, 2019<br/>
 
 ## Required Python Packages
 Required Python Packages:<br/>
-..*os
-..*datetime (datetime)
-..*matplotlib.pyplot
-..*numpy
-..*h5py
-..*itertools
-..*PIL (Image)
-..*warnings
+*os
+*datetime (datetime)
+*matplotlib.pyplot
+*numpy
+*h5py
+*itertools
+*PIL (Image)
+*warnings
 
 External CHX package:<br/>
 	pyCHX.chx_xpcs_xsvs_jupyter_V1:<br/>
