@@ -32,7 +32,8 @@ Required Python Packages:<br/>
 
 External CHX package:<br/>
 
-	pyCHX.chx_xpcs_xsvs_jupyter_V1: https://github.com/NSLS-II-CHX/pyCHX/blob/master/pyCHX/chx_xpcs_xsvs_jupyter_V1.py
+	pyCHX.chx_xpcs_xsvs_jupyter_V1:<br/> 
+	https://github.com/NSLS-II-CHX/pyCHX/blob/master/pyCHX/chx_xpcs_xsvs_jupyter_V1.py
 
 ## Useful Default Variables <a name="useful_variables"></a>
 y_crd: horizontal cut at row<br/>
