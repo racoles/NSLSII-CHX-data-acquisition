@@ -161,15 +161,15 @@ where 1b9ff7 is the UID for the CHX measurement, gives the output:
 min: 0, max: 4294967295
 <Figure size 432x288 with 0 Axes>
 ```
-
+<img src="1b9ff7.tif"/>
 ![1b9ff7][1b9ff7.tif]<br/>
 ![1b9ff7_cropped][1b9ff7_cropped.tif]<br/>
 `Horizontal cut at row 1200`<br/>
-![1b9ff7_profile_horiz_image.tif][1b9ff7_profile_horiz_image.tif]<br/>
-![1b9ff7_profile_horiz_intensity.tif][1b9ff7_profile_horiz_intensity.tif]<br/>
+![1b9ff7_profile_horiz_image][1b9ff7_profile_horiz_image.tif]<br/>
+![1b9ff7_profile_horiz_intensity][1b9ff7_profile_horiz_intensity.tif]<br/>
 `Vertical cut at column 1100`<br/>
-![1b9ff7_profile_vert_image.tif][1b9ff7_profile_vert_image.tif]<br/>
-![1b9ff7_profile_vert_intensity.tif][1b9ff7_profile_vert_intensity.tif]<br/>
+![1b9ff7_profile_vert_image][1b9ff7_profile_vert_image.tif]<br/>
+![1b9ff7_profile_vert_intensity][1b9ff7_profile_vert_intensity.tif]<br/>
 
 ```
 [<Frames>
