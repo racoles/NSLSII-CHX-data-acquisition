@@ -21,19 +21,18 @@ Updated on Aug 08, 2019<br/>
 
 ## Required Python Packages <a name="required"></a>
 Required Python Packages:<br/>
-* os
-* datetime (datetime)
-* matplotlib.pyplot
-* numpy
-* h5py
-* itertools
-* PIL (Image)
-* warnings
+* os: https://docs.python.org/3/library/os.html
+* datetime (datetime): https://docs.python.org/3/library/datetime.html
+* matplotlib.pyplot: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html
+* numpy: https://numpy.org/
+* h5py: https://www.h5py.org/
+* itertools: https://docs.python.org/3/library/itertools.html
+* PIL (Image): https://pillow.readthedocs.io/en/stable/reference/Image.html
+* warnings: https://docs.python.org/3/library/warnings.html
 
 External CHX package:<br/>
 
-	pyCHX.chx_xpcs_xsvs_jupyter_V1:<br/>
-    https://github.com/NSLS-II-CHX/pyCHX/blob/master/pyCHX/chx_xpcs_xsvs_jupyter_V1.py
+	pyCHX.chx_xpcs_xsvs_jupyter_V1: https://github.com/NSLS-II-CHX/pyCHX/blob/master/pyCHX/chx_xpcs_xsvs_jupyter_V1.py
 
 ## Useful Default Variables <a name="useful_variables"></a>
 y_crd: horizontal cut at row<br/>
