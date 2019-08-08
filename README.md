@@ -161,7 +161,7 @@ where 1b9ff7 is the UID for the CHX measurement, gives the output:
 min: 0, max: 4294967295
 <Figure size 432x288 with 0 Axes>
 ```
-<img src="1b9ff7.tif"/>
+<img src="image1.png" width="425"/>
 ![1b9ff7][1b9ff7.tif]<br/>
 ![1b9ff7_cropped][1b9ff7_cropped.tif]<br/>
 `Horizontal cut at row 1200`<br/>
