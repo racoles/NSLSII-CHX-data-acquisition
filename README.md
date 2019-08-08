@@ -80,14 +80,14 @@ Display CHX eiger image cropped to user specifications. Will save the plot as a 
  
 `def display_cropped_image(im, uid, x1, x2, y1, y2, clim, cmap='gist_stern')`
 
-param im: eiger detector image.<br/>  
-param uid: unique ID automatically assigned to a CHX measurement.<br/> 
-param x1: x-axis stating location (columns).<br/> 
-param x2: x-axis final location (columns).<br/>  
-param y1: y-axis stating location (rows).<br/>  
-param y2: y-axis final location (rows).<br/>   
+param im: eiger detector image.<br/>
+param uid: unique ID automatically assigned to a CHX measurement.<br/>
+param x1: x-axis stating location (columns).<br/>
+param x2: x-axis final location (columns).<br/>
+param y1: y-axis stating location (rows).<br/>
+param y2: y-axis final location (rows).<br/>
 param cmap='gist_stern': color map (https://matplotlib.org/examples/color/colormaps_reference.html)<br/>  
-param clim: sets the color limits of the current image.<br/> 
+param clim: sets the color limits of the current image.<br/>
 
 ### plot_eiger
 Display CHX eiger image: fullsize, cropped to user specifications, and with horizontal and vertical cuts. Will save the plot as a TIFF.<br/> 
