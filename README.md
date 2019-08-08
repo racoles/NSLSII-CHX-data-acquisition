@@ -17,6 +17,7 @@ Required Python Packages:<br/>
 * warnings
 
 External CHX package:<br/>
+
 	pyCHX.chx_xpcs_xsvs_jupyter_V1:<br/>
     https://github.com/NSLS-II-CHX/pyCHX/blob/master/pyCHX/chx_xpcs_xsvs_jupyter_V1.py
 
