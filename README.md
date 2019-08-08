@@ -5,7 +5,13 @@ Title: CHX-axis-labels-and-cropping<br/>
 Author: Rebecca Coles<br/>
 Updated on Aug 08, 2019<br/>
 
-## Required Python Packages
+# Table of Contents
+1. [Required Python Packages](#required)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+## Required Python Packages <a name="required"></a>
 Required Python Packages:<br/>
 * os
 * datetime (datetime)
