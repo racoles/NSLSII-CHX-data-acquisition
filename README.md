@@ -5,6 +5,9 @@ Title: CHX-axis-labels-and-cropping<br/>
 Author: Rebecca Coles<br/>
 Updated on Aug 08, 2019<br/>
 
+This notebook can be used on the CHX Jupyter Hub:
+https://notebook.nsls2.bnl.gov
+
 # Table of Contents
 1. [Required Python Packages](#required)
 2. [Useful Default Variables](#useful_variables)
