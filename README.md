@@ -86,7 +86,7 @@ param x1: x-axis stating location (columns).<br/>
 param x2: x-axis final location (columns).<br/>
 param y1: y-axis stating location (rows).<br/>
 param y2: y-axis final location (rows).<br/>
-param cmap='gist_stern': color map (https://matplotlib.org/examples/color/colormaps_reference.html)<br/>  
+param cmap='gist_stern': color map (https://matplotlib.org/examples/color/colormaps_reference.html)<br/>
 param clim: sets the color limits of the current image.<br/>
 
 ### plot_eiger
