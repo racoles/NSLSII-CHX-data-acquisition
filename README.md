@@ -1,5 +1,5 @@
-# NSLSII-CHX-data-acquisition
-Retrieve data from CHX (NSLSII Hard X-ray beamline) BlueSky servers.
+# NSLSII-CHX-image-tools
+Retrieve data from CHX (NSLSII Hard X-ray beamline) BlueSky servers and edit images from the eiger detector.
 
 Title: CHX-axis-labels-and-cropping<br/>
 Author: Rebecca Coles<br/>
