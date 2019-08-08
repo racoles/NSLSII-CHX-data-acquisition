@@ -1,36 +1,36 @@
 # NSLSII-CHX-data-acquisition
 Retrieve data from CHX (NSLSII Hard X-ray beamline) BlueSky servers.
 
-Title: CHX-axis-labels-and-cropping
-Author: Rebecca Coles
-Updated on Aug 07, 2019
+Title: CHX-axis-labels-and-cropping<br/>
+Author: Rebecca Coles<br/>
+Updated on Aug 08, 2019<br/>
 
 ## Required Python Packages
-Required Python Packages:
-	os
-	datetime (datetime)
-	matplotlib.pyplot
-	numpy
-	h5py
-	itertools
-	PIL (Image)
-	warnings
+Required Python Packages:<br/>
+	os<br/>
+	datetime (datetime)<br/>
+	matplotlib.pyplot<br/>
+	numpy<br/>
+	h5py<br/>
+	itertools<br/>
+	PIL (Image)<br/>
+	warnings<br/>
 
-External CHX package:
-	pyCHX.chx_xpcs_xsvs_jupyter_V1
+External CHX package:<br/>
+	pyCHX.chx_xpcs_xsvs_jupyter_V1:<br/>
     https://github.com/NSLS-II-CHX/pyCHX/blob/master/pyCHX/chx_xpcs_xsvs_jupyter_V1.py
 
 ## Useful Default Variables
-y_crd: horizontal cut at row
-x_crd: vertical cut at column 
-x1, x2, y1, y2: crop image at given columns and rows (Example: x1, x2, y1, y2 = 900, 1650, 750, 1400)
-dpi: dpi of images
-eiger_size_per_pixel: eiger is 75 um per pixel so typically eiger_size_per_pixel = 0.075
+y_crd: horizontal cut at row<br/>
+x_crd: vertical cut at column<br/>
+x1, x2, y1, y2: crop image at given columns and rows (Example: x1, x2, y1, y2 = 900, 1650, 750, 1400)<br/>
+dpi: dpi of images<br/>
+eiger_size_per_pixel: eiger is 75 um per pixel so typically eiger_size_per_pixel = 0.075<br/>
 
 ## Functions
 
 ### save_hdf5
-Access BlueSky HDF5 binary data from CHX measurement.
+Access BlueSky HDF5 binary data from CHX measurement.<br/>
 `def save_hdf5(data, filename='data.h5', dataset='dataset')`
         
 param data: HDF5 binary data from CHX measurement.
