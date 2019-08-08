@@ -83,7 +83,7 @@ param line_color='red': color of line that will show the cut location.<br/>
 param linestyles=None: custom linestyles.<br/> 
 
 ### display_image_in_actual_size <a name="display_image_in_actual_size"></a>
-Display CHX eiger image in full size. Will save the plot as a TIFF.<br/> 
+Display CHX Eiger image in full size and save the image as a TIFF with dual pixel and mm axis.<br/> 
 
 `def display_image_in_actual_size(im, uid, clim, cmap='gist_stern')`
 
@@ -93,7 +93,7 @@ param cmap='gist_stern': color map (https://matplotlib.org/examples/color/colorm
 param clim: sets the color limits of the current image.<br/> 
 
 ### display_cropped_image <a name="display_cropped_image"></a>
-Display CHX eiger image cropped to user specifications. Will save the plot as a TIFF.<br/> 
+Display CHX eiger image cropped to user specifications and save the image as a TIFF with dual pixel and mm axis.<br/> 
  
 `def display_cropped_image(im, uid, x1, x2, y1, y2, clim, cmap='gist_stern')`
 
@@ -107,7 +107,7 @@ param cmap='gist_stern': color map (https://matplotlib.org/examples/color/colorm
 param clim: sets the color limits of the current image.<br/>
 
 ### plot_eiger <a name="plot_eiger"></a>
-Display CHX eiger image: fullsize, cropped to user specifications, and with horizontal and vertical cuts. Will save the plot as a TIFF.<br/> 
+Display CHX eiger image: fullsize, cropped to user specifications, and with horizontal and vertical cuts, and save the plots and images as a TIFFs. <br/> 
 
 `def plot_eiger(uid, det='eiger4m_single_image', cmap='afmhot', clim=(0, 100), mean=False, frame_num=0, grid=False)`
 
